@@ -29,3 +29,4 @@ tmp_data.txt
 
 # Logs
 *.log
+.env
